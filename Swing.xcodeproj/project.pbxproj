@@ -1,0 +1,106 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		4D44E6C81AA7BDBC00BCDC96 /* SwingFrame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SwingFrame.cpp; sourceTree = "<group>"; };
+		4D44E6C91AA7BDBC00BCDC96 /* SwingFrame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwingFrame.h; sourceTree = "<group>"; };
+		4D44E6CA1AA7BDBC00BCDC96 /* Wheel.cc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Wheel.cc; sourceTree = "<group>"; };
+		4D44E6CB1AA7BDBC00BCDC96 /* Wheel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Wheel.h; sourceTree = "<group>"; };
+		4D44E6CC1AA7BDC800BCDC96 /* animation.cc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = animation.cc; sourceTree = "<group>"; };
+		4D44E6CD1AA7BDC800BCDC96 /* Arm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Arm.cpp; sourceTree = "<group>"; };
+		4D44E6CE1AA7BDC800BCDC96 /* Arm.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Arm.h; sourceTree = "<group>"; };
+		4D44E6CF1AA7BDC800BCDC96 /* CMakeLists.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = "<group>"; };
+		4D44E6D01AA7BDF200BCDC96 /* Cylinder.cpp */ = {isa = PBXFileReference; path = Cylinder.cpp; sourceTree = "<group>"; };
+		4D44E6D11AA7BDF200BCDC96 /* Cylinder.h */ = {isa = PBXFileReference; path = Cylinder.h; sourceTree = "<group>"; };
+		4D44E6D21AA7BDF200BCDC96 /* Sphere.cpp */ = {isa = PBXFileReference; path = Sphere.cpp; sourceTree = "<group>"; };
+		4D44E6D31AA7BDF200BCDC96 /* Sphere.h */ = {isa = PBXFileReference; path = Sphere.h; sourceTree = "<group>"; };
+		4D44E6D41AA7BDF200BCDC96 /* Torus.cpp */ = {isa = PBXFileReference; path = Torus.cpp; sourceTree = "<group>"; };
+		4D44E6D51AA7BDF200BCDC96 /* Torus.h */ = {isa = PBXFileReference; path = Torus.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		4D44E6C11AA7BD5D00BCDC96 = {
+			isa = PBXGroup;
+			children = (
+				4D44E6D61AA7BDF200BCDC96 /* Shapes */,
+				4D44E6CC1AA7BDC800BCDC96 /* animation.cc */,
+				4D44E6CD1AA7BDC800BCDC96 /* Arm.cpp */,
+				4D44E6CE1AA7BDC800BCDC96 /* Arm.h */,
+				4D44E6CF1AA7BDC800BCDC96 /* CMakeLists.txt */,
+				4D44E6C81AA7BDBC00BCDC96 /* SwingFrame.cpp */,
+				4D44E6C91AA7BDBC00BCDC96 /* SwingFrame.h */,
+				4D44E6CA1AA7BDBC00BCDC96 /* Wheel.cc */,
+				4D44E6CB1AA7BDBC00BCDC96 /* Wheel.h */,
+			);
+			sourceTree = "<group>";
+		};
+		4D44E6D61AA7BDF200BCDC96 /* Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				4D44E6D01AA7BDF200BCDC96 /* Cylinder.cpp */,
+				4D44E6D11AA7BDF200BCDC96 /* Cylinder.h */,
+				4D44E6D21AA7BDF200BCDC96 /* Sphere.cpp */,
+				4D44E6D31AA7BDF200BCDC96 /* Sphere.h */,
+				4D44E6D41AA7BDF200BCDC96 /* Torus.cpp */,
+				4D44E6D51AA7BDF200BCDC96 /* Torus.h */,
+			);
+			path = Shapes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		4D44E6C21AA7BD5D00BCDC96 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+			};
+			buildConfigurationList = 4D44E6C51AA7BD5D00BCDC96 /* Build configuration list for PBXProject "Swing" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4D44E6C11AA7BD5D00BCDC96;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		4D44E6C61AA7BD5D00BCDC96 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		4D44E6C71AA7BD5D00BCDC96 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4D44E6C51AA7BD5D00BCDC96 /* Build configuration list for PBXProject "Swing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D44E6C61AA7BD5D00BCDC96 /* Debug */,
+				4D44E6C71AA7BD5D00BCDC96 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4D44E6C21AA7BD5D00BCDC96 /* Project object */;
+}

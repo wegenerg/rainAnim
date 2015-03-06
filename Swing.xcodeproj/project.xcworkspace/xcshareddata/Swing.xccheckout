@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4A113940-030A-4BAF-9E02-DC366D19E17A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Swing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DB35E91F13D600454F64E40FB343A0C3E3A157FD</key>
+		<string>https://github.com/JGREENERT/object_design_and_transformation</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>light_anim/Swing.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DB35E91F13D600454F64E40FB343A0C3E3A157FD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JGREENERT/object_design_and_transformation</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB35E91F13D600454F64E40FB343A0C3E3A157FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB35E91F13D600454F64E40FB343A0C3E3A157FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>project1Shape</string>
+		</dict>
+	</array>
+</dict>
+</plist>
